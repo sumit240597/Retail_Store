@@ -19,7 +19,7 @@ Baghdad is mostly affected State by attacks.
 
 Baghdad is mostly affected city by the attacks.
 
-Private Citizens & Property are the mostly targets by the terrorist folowed by Military,Police,Transportation. These are all the top most taregts .
+Private Citizens & Property are the mostly target by the terrorist followed by Military,Police,Transportation. These are all the top most taregts .
 
 Bombing/Explosion is the mostly type of attack choosen by the terroirst. Explosive is the commenly used weapons by the terrorist.
 
