@@ -1,6 +1,37 @@
+# Global_Terrorism
+
+This is the Internship Po=roject work from The Spark Foundation
+Need to Perform EDA on the dataset of Global_Terrorism
+Need to identify the hot zone and all other insights information
+
+Insights Details:-
+Hotzone of Terrorism - Iraq.
+
+Mostly active group of terrorist is Taliban with most numbers of attack.
+
+According to the year data 2014 is the highest numbers of attack done by terrorist and 1971 was the least.
+
+In month of May mot numbers of successful attack was done.
+
+Region which is mostly affected by terrorism is Middle East & North America followed by South Asia.
+
+Baghdad is mostly affected State by attacks.
+
+Baghdad is mostly affected city by the attacks.
+
+Private Citizens & Property are the mostly targets by the terrorist folowed by Military,Police,Transportation. These are all the top most taregts .
+
+Bombing/Explosion is the mostly type of attack choosen by the terroirst. Explosive is the commenly used weapons by the terrorist.
+
+
+
+
+
+
+
 # Retail_Store
 
-These is an Internship projects from The Spark Foundations 
+This is an Internship projects from The Spark Foundations 
 Need to find out the weak area and make profit out of that. 
 Deriving the others business problems aslo
 
