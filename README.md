@@ -1,6 +1,6 @@
 # Global_Terrorism
 
-This is the Internship Po=roject work from The Spark Foundation
+This is the Internship Project work from The Spark Foundation
 Need to Perform EDA on the dataset of Global_Terrorism
 Need to identify the hot zone and all other insights information
 
